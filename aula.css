@@ -35,4 +35,5 @@ body::before{
 body::after{
     /*posiciona a luz azul*/
     background: #2563e6;
+    bottom: 20%;
 }
