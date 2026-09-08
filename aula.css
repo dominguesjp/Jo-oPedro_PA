@@ -16,3 +16,8 @@ body{
     overflow: hidden;
     position: relative;
 }
+body::before, body::after{
+    /**/
+    content: '';
+    position: absolute;
+}
