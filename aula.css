@@ -20,4 +20,5 @@ body::before, body::after{
     /**/
     content: '';
     position: absolute;
+    width: 300px;
 }
