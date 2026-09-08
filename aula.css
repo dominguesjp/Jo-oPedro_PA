@@ -51,4 +51,5 @@ body::after{
     max-width: 420px;
     width: 90%;
     text-align: center;
+    box-shadow: 0 20px 40px rgba(0, 0, 0, 0.5);
 }
