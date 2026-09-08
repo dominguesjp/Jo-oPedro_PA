@@ -29,4 +29,5 @@ body::before, body::after{
 body::before{
     /*posiciona a luz vermelha*/
     background: #dc2626;
+    top: 20%;
 }
