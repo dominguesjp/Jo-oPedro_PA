@@ -99,4 +99,5 @@ body::after{
     width: 100%;
     background: #dc2626;
     color: #fff;
+    padding: 14px;
 }
