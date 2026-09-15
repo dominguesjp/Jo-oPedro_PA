@@ -63,4 +63,5 @@ body::after{
     /* estetica a etiqueta/badge */
     display: inline-block;
     background: rgba(220, 38, 38, 0.2);    
+    color: #f87171;
 }
