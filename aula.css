@@ -68,4 +68,5 @@ body::after{
     padding: 6px 16px; 
     border-radius: 100px;
     font-size: 0.75rem;
+    font-weight: 700;
 } 
