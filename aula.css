@@ -94,4 +94,5 @@ body::after{
 .btn{
     /* Estiliza o botão*/
     display: flex;
+    align-items: center;
 }
