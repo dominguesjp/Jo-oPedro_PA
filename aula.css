@@ -84,7 +84,7 @@ body::after{
     -webkit-background-clip: text;
     -webkit-text-fill-color: transparent;
 }
-.p{
+p{
     /*Estiliza o texto/paragrafo */
     color: #94a3b8;
     font-size: 0.95rem;
@@ -95,6 +95,7 @@ body::after{
     /* Estiliza o botão*/
     display: flex;
     align-items: center;
+    justify-content: center;
     gap: 8px;
     width: 100%;
     background: #dc2626;
@@ -106,7 +107,7 @@ body::after{
     font-size: 1rem ;
     box-shadow: 0 0 20px rgba(220, 38, 38, 0.35);
     transition: all 0.3s ease;
-    text-align: center;
+   
 }
 .btn:hover{
     /*efeito ao passar o mouse no botão*/
