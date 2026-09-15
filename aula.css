@@ -86,5 +86,6 @@ body::after{
 }
 .p{
     /*Estiliza o texto/paragrafo */
-    color: #94a3b8
+    color: #94a3b8;
+    font-size: 0.95rem;
 }
