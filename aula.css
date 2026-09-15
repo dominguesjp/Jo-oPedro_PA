@@ -103,4 +103,5 @@ body::after{
     border-radius: 12px;
     text-decoration: none;
     font-weight: 700;
+    font-size: 1rem ;
 }
