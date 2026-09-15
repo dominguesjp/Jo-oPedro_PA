@@ -80,5 +80,5 @@ body::after{
     line-height: 1.2;
     margin-bottom: 12px;
     background: linear-gradient(135deg, #fff 0%, #cbd5e1);
-    
+    background-clip: text;
 }
