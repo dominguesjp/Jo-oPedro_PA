@@ -59,3 +59,7 @@ body::after{
     transform: translateY(-5px);
     border-color: rgba(255, 255, 255, 0.25);
 }
+.badge{
+    /* estetica a etiqueta/badge */
+    display: inline-block;
+}
