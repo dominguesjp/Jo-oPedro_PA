@@ -107,3 +107,7 @@ body::after{
     box-shadow: 0 0 20px rgba(220, 38, 38, 0.35);
     transition: all 0.3s ease;
 }
+.btn:hover{
+    /*efeito ao passar o mouse no botão*/
+    background: #ef4444;
+}
