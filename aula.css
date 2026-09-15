@@ -91,3 +91,7 @@ body::after{
     line-height: 1.6;
     margin-bottom: 28px;
 }
+.btn{
+    /* Estiliza o botão*/
+    display: flex;
+}
