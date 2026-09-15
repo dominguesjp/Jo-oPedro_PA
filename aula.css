@@ -77,4 +77,5 @@ body::after{
     /* estiliza o titulo principal*/
     font-size: 2.1rem;
     font-weight: 800;
+    line-height: 1.2;
 }
