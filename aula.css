@@ -95,4 +95,5 @@ body::after{
     /* Estiliza o botão*/
     display: flex;
     align-items: center;
+    gap: 8px;
 }
