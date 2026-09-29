@@ -124,3 +124,7 @@ p{
     max-width: 1000px;
     text-align: center;
 }
+.conteudo h2{
+    /* Estiliza o título da nova sessão*/
+    font-size: 2rem;
+}
