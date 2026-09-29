@@ -120,4 +120,5 @@ p{
     /* Define o tamanho e a posição do novo card*/
     position: relative;
     z-index: 1;
+    width: 100%;
 }
