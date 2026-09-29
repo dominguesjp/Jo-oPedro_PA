@@ -118,5 +118,5 @@ p{
 /* segunda parte do nosso css*/
 .conteudo {
     /* Define o tamanho e a posição do novo card*/
-    
+    position: relative;
 }
