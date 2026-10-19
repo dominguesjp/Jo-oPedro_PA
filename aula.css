@@ -130,3 +130,7 @@ p{
     color: #fff;
     margin-bottom: 30px;
 }
+.informacoes{
+    /*Organiza os cartões lado a lado*/
+    display: grid;
+}
