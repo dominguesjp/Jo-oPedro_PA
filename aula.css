@@ -145,4 +145,6 @@ p{
     border-radius: 18px;
     /*Define o espaçamento interno*/
     padding: 30px;
+    /*alinha o conteudo a esquerda*/
+    text-align: left;
 }
