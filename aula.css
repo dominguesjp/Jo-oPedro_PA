@@ -137,3 +137,7 @@ p{
     /* Define o espaço entre os cartões*/
     gap: 20px;
 }
+.info-card{
+    /* Define o fundo e as bordas dos cartões*/
+    background: rgba(255, 255, 255, 0.04);
+}
