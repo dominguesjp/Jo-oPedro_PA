@@ -143,4 +143,6 @@ p{
     border: 1px solid rgba(255, 255, 255, 0.12);
     /*arredonda os cantos*/
     border-radius: 18px;
+    /*Define o espaçamento interno*/
+    padding: 30px;
 }
