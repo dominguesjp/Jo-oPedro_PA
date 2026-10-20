@@ -153,5 +153,6 @@ p{
 .info-card:hover{
     /* Eleva o cartão quando o mouse passa sobre ele*/
     transform: translateY(-5px);
-    
+    /*altera a cor da borda para vermelho*/
+    border-color: #dc2626;
 }
