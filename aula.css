@@ -166,3 +166,7 @@ p{
     /* Ajusta o espaçamento entre os paragrafos*/
     margin-bottom: 12px;
 }
+.info-card p:last-child{
+    /*remove o espaço abaixo do último paragrafo*/
+    margin-bottom: 0;
+}
