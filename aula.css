@@ -156,3 +156,7 @@ p{
     /*altera a cor da borda para vermelho*/
     border-color: #dc2626;
 }
+.info-card h3{
+    /*estiliza os titulos git e github*/
+    color: #f87171;
+}
