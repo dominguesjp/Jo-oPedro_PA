@@ -159,4 +159,5 @@ p{
 .info-card h3{
     /*estiliza os titulos git e github*/
     color: #f87171;
+    font-size: 1.4rem;
 }
